@@ -1,0 +1,15 @@
+C:\Users\dmoza\OneDrive\Desktop\Year2\Systems Programming\ToDo List\ToDo List\ToDo List\bin\Debug\net6.0\ToDo List.exe
+C:\Users\dmoza\OneDrive\Desktop\Year2\Systems Programming\ToDo List\ToDo List\ToDo List\bin\Debug\net6.0\ToDo List.deps.json
+C:\Users\dmoza\OneDrive\Desktop\Year2\Systems Programming\ToDo List\ToDo List\ToDo List\bin\Debug\net6.0\ToDo List.runtimeconfig.json
+C:\Users\dmoza\OneDrive\Desktop\Year2\Systems Programming\ToDo List\ToDo List\ToDo List\bin\Debug\net6.0\ToDo List.dll
+C:\Users\dmoza\OneDrive\Desktop\Year2\Systems Programming\ToDo List\ToDo List\ToDo List\bin\Debug\net6.0\ToDo List.pdb
+C:\Users\dmoza\OneDrive\Desktop\Year2\Systems Programming\ToDo List\ToDo List\ToDo List\obj\Debug\net6.0\ToDo List.csproj.AssemblyReference.cache
+C:\Users\dmoza\OneDrive\Desktop\Year2\Systems Programming\ToDo List\ToDo List\ToDo List\obj\Debug\net6.0\ToDo List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmoza\OneDrive\Desktop\Year2\Systems Programming\ToDo List\ToDo List\ToDo List\obj\Debug\net6.0\ToDo List.AssemblyInfoInputs.cache
+C:\Users\dmoza\OneDrive\Desktop\Year2\Systems Programming\ToDo List\ToDo List\ToDo List\obj\Debug\net6.0\ToDo List.AssemblyInfo.cs
+C:\Users\dmoza\OneDrive\Desktop\Year2\Systems Programming\ToDo List\ToDo List\ToDo List\obj\Debug\net6.0\ToDo List.csproj.CoreCompileInputs.cache
+C:\Users\dmoza\OneDrive\Desktop\Year2\Systems Programming\ToDo List\ToDo List\ToDo List\obj\Debug\net6.0\ToDo List.dll
+C:\Users\dmoza\OneDrive\Desktop\Year2\Systems Programming\ToDo List\ToDo List\ToDo List\obj\Debug\net6.0\refint\ToDo List.dll
+C:\Users\dmoza\OneDrive\Desktop\Year2\Systems Programming\ToDo List\ToDo List\ToDo List\obj\Debug\net6.0\ToDo List.pdb
+C:\Users\dmoza\OneDrive\Desktop\Year2\Systems Programming\ToDo List\ToDo List\ToDo List\obj\Debug\net6.0\ToDo List.genruntimeconfig.cache
+C:\Users\dmoza\OneDrive\Desktop\Year2\Systems Programming\ToDo List\ToDo List\ToDo List\obj\Debug\net6.0\ref\ToDo List.dll
